@@ -16,7 +16,7 @@
 
 **Databases:** MySQL, PL/SQL, JDBC
 
-**Frameworks & Tools:** JavaFX, Git, GitHub, AWS (EC2, S3, IAM), HTML, CSS
+**Frameworks & Tools:** JavaFX, Git, GitHub,JS,HTML,CSS
 
 **Concepts:** Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, MVC Architecture
 
